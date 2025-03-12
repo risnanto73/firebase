@@ -1,0 +1,2 @@
+C:/Users/rtid/StudioProjects/firebase_test_clone/android/app/.cxx/Debug/yh6c41jw/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/rtid/StudioProjects/firebase_test_clone/android/app/.cxx/Debug/yh6c41jw/armeabi-v7a/CMakeFiles/rebuild_cache.dir
